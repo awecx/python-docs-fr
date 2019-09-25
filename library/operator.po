@@ -329,7 +329,7 @@ msgid ""
 "Example of using :func:`itemgetter` to retrieve specific fields from a tuple "
 "record:"
 msgstr ""
-"Exemple d'utilisation de func:`itemgetter` pour récupérer des champs "
+"Exemple d'utilisation de :func:`itemgetter` pour récupérer des champs "
 "spécifiques d'un n-uplet :"
 
 #: ../Doc/library/operator.rst:342
